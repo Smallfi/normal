@@ -40,7 +40,7 @@ class uploadimg():
         fout.write(x.myfile.file.read()) 
         fout.close() 
         print 'bobi'
-        return "upload success84"
+        return "upload success-666"
         # else:
         #     return "failed"
 
